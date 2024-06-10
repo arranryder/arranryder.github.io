@@ -13,7 +13,7 @@ Welcome to the repository for Arran Ryder's personal portfolio website. This web
 
 ## Demo
 
-Check out the live demo [here](http://example.com).
+Check out the live demo [here](https://arranryder.github.io/#portfolio).
 
 ## Features
 
